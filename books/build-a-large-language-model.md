@@ -6,8 +6,8 @@
 
 * **Title**: Build a Large Language Model
 * **Authors**: Sebastian Raschka
-* **Publication Date**: Manning
-* **Publisher**: 2024
+* **Publication Date**: 2024
+* **Publisher**: Manning
 * **ISBN**: 978-1633437166
 * **Pages**: 368
 
