@@ -1,15 +1,15 @@
 # Hands-On Large Language Models
 
-[home](../)
+![Cover Image](hands-on-large-language-models.jpeg)
 
-![cover](hands-on-large-language-models.jpg)
+## Details
 
-* Title: Hands-On Large Language Models
-* Subtitle: Language Understanding and Generation
+* **Title**: Hands-On Large Language Models
 * **Authors**: Jay Alammar and Maarten Grootendorst
+* **Publication Date**: 2024
 * **Publisher**: O'Reilly
-* **Date**: 2024
-* *ISBN-13*: 978-1098150969
+* **ISBN**: 978-1098150969
+* **Pages**: 425
 
 ## Blurb
 
@@ -25,7 +25,7 @@ This book also helps you:
 * Explore how generative models can be used, from prompt engineering all the way to retrieval-augmented generation
 * Gain a deeper understanding of how to train LLMs and optimize them for specific applications using generative model fine-tuning, contrastive fine-tuning, and in-context learning
 
-## Contents
+## Table of Contents
 
 * Chapter 1: Introduction to Language Models
 * Chapter 2: Tokens and Embeddings
@@ -43,6 +43,6 @@ This book also helps you:
 ## Links
 
 * [Amazon](https://a.co/d/hXs5jDF)
-* [GoodReads](https://www.goodreads.com/book/show/210408850-hands-on-large-language-models)
+* [Goodreads](https://www.goodreads.com/book/show/210408850-hands-on-large-language-models)
 * [Publisher](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
-* [GitHub](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
+* [GitHub Project](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
