@@ -11,6 +11,12 @@
 * **ISBN**: 978-1098150969
 * **Pages**: 425
 
+
+[Amazon](https://a.co/d/hXs5jDF) | 
+[Goodreads](https://www.goodreads.com/book/show/210408850-hands-on-large-language-models) | 
+[Publisher](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) | 
+[GitHub Project](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 
+
 ## Blurb
 
 AI has acquired startling new language capabilities in just the past few years. Driven by rapid advances in deep learning, language AI systems are able to write and understand text better than ever before. This trend is enabling new features, products, and entire industries. Through this book's visually educational nature, readers will learn practical tools and concepts they need to use these capabilities today.
@@ -39,10 +45,3 @@ This book also helps you:
 * Chapter 10: Creating Text Embedding Models
 * Chapter 11: Fine-tuning Representation Models for Classification
 * Chapter 12: Fine-tuning Generation Models
-
-## Links
-
-* [Amazon](https://a.co/d/hXs5jDF)
-* [Goodreads](https://www.goodreads.com/book/show/210408850-hands-on-large-language-models)
-* [Publisher](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
-* [GitHub Project](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)

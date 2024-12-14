@@ -11,6 +11,12 @@
 * **ISBN**: 978-1098153434
 * **Pages**: 422
 
+
+[Amazon](https://a.co/d/52xLb9K) | 
+[Goodreads](https://www.goodreads.com/book/show/204133880-prompt-engineering-for-generative-ai) | 
+[Publisher](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) | 
+[GitHub Project](https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples) | 
+
 ## Blurb
 
 Large language models (LLMs) and diffusion models such as ChatGPT and Stable Diffusion have unprecedented potential. Because they have been trained on all the public text and images on the internet, they can make useful contributions to a wide variety of tasks. And with the barrier to entry greatly reduced today, practically any developer can harness LLMs and diffusion models to tackle problems previously unsuitable for automation.
@@ -36,10 +42,3 @@ Learn how to empower AI to work for you. This book explains:
 * Chapter 8: Standard Practices for Image Generation
 * Chapter 9: Advanced Techniques for Image Generation
 * Chapter 10: Building AI-powered Applications
-
-## Links
-
-* [Amazon](https://a.co/d/52xLb9K)
-* [Goodreads](https://www.goodreads.com/book/show/204133880-prompt-engineering-for-generative-ai)
-* [Publisher](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/)
-* [GitHub Project](https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples)
