@@ -1,8 +1,11 @@
 # Hands-On Large Language Models
-## Language Understanding and Generation
 
-![Hands-On Large Language Models: Language Understanding and Generation](hands-on-large-language-models.jpg)
+[home](../)
 
+![cover](hands-on-large-language-models.jpg)
+
+* Title: Hands-On Large Language Models
+* Subtitle: Language Understanding and Generation
 * **Authors**: Jay Alammar and Maarten Grootendorst
 * **Publisher**: O'Reilly
 * **Date**: 2024
