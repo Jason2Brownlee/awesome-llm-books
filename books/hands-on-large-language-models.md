@@ -12,10 +12,10 @@
 * **Pages**: 425
 
 
-[Amazon](https://a.co/d/hXs5jDF) | 
-[Goodreads](https://www.goodreads.com/book/show/210408850-hands-on-large-language-models) | 
-[Publisher](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) | 
-[GitHub Project](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) | 
+**Links**: [Amazon](https://a.co/d/hXs5jDF) |
+[Goodreads](https://www.goodreads.com/book/show/210408850-hands-on-large-language-models) |
+[Publisher](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) |
+[GitHub Project](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 
 ## Blurb
 

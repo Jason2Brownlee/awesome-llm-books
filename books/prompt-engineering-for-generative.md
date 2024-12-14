@@ -12,10 +12,10 @@
 * **Pages**: 422
 
 
-[Amazon](https://a.co/d/52xLb9K) | 
-[Goodreads](https://www.goodreads.com/book/show/204133880-prompt-engineering-for-generative-ai) | 
-[Publisher](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) | 
-[GitHub Project](https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples) | 
+**Links**: [Amazon](https://a.co/d/52xLb9K) |
+[Goodreads](https://www.goodreads.com/book/show/204133880-prompt-engineering-for-generative-ai) |
+[Publisher](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) |
+[GitHub Project](https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples)
 
 ## Blurb
 

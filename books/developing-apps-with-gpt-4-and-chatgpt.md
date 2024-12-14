@@ -12,10 +12,10 @@
 * **Pages**: 155
 
 
-[Amazon](https://a.co/d/8aDJJvi) | 
-[Goodreads](https://www.goodreads.com/book/show/181704874-developing-apps-with-gpt-4-and-chatgpt) | 
-[Publisher](https://www.oreilly.com/library/view/developing-apps-with/9781098152475/) | 
-[GitHub Project](https://github.com/malywut/gpt_examples) | 
+**Links**: [Amazon](https://a.co/d/8aDJJvi) |
+[Goodreads](https://www.goodreads.com/book/show/181704874-developing-apps-with-gpt-4-and-chatgpt) |
+[Publisher](https://www.oreilly.com/library/view/developing-apps-with/9781098152475/) |
+[GitHub Project](https://github.com/malywut/gpt_examples)
 
 ## Blurb
 
