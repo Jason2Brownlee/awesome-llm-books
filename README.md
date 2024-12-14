@@ -8,7 +8,7 @@ Alphabetical list of books on LLMs, each links to a details page.
 
 | Cover | Title | Year |
 | --- | --- | --- |
-| ![cover](books/hands-on-large-language-models.png) | [Hands-On Large Language Models: Language Understanding and Generation](books/hands-on-large-language-models.md) | 2024 |
+| [![cover](books/hands-on-large-language-models.png)]((books/hands-on-large-language-models.md)) | [Hands-On Large Language Models: Language Understanding and Generation](books/hands-on-large-language-models.md) | 2024 |
 
 
 
