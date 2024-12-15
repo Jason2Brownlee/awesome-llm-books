@@ -23,8 +23,8 @@ Alphabetical list of books on LLMs. Each cover/title links to more information a
 | [![Prompt Engineering for Generative](books/prompt-engineering-for-generative.png)](books/prompt-engineering-for-generative.md) | [Prompt Engineering for Generative](books/prompt-engineering-for-generative.md)<br>**Subtitle**: Future-Proof Inputs for Reliable AI Outputs<br>**Authors**: James Phoenix and Mike Taylor<br>**Publisher**: O'Reilly | 2024 |
 | [![Prompt Engineering for LLMs](books/prompt-engineering-for-llms.jpeg)](books/prompt-engineering-for-llms.md) | [Prompt Engineering for LLMs](books/prompt-engineering-for-llms.md)<br>**Subtitle**: The Art and Science of Building Large Language Model–Based Applications<br>**Authors**: John Berryman and Albert Ziegler<br>**Publisher**: O'Reilly | 2024 |
 | [![Quick Start Guide to Large Language Models](books/quick-start-guide-to-large-language-models.jpeg)](books/quick-start-guide-to-large-language-models.md) | [Quick Start Guide to Large Language Models](books/quick-start-guide-to-large-language-models.md)<br>**Subtitle**: Strategies and Best Practices for ChatGPT, Embeddings, Fine-Tuning, and Multimodal AI<br>**Authors**: Sinan Ozdemir <br>**Publisher**: Addison-Wesley | 2024 |
-
-
+| [![RAG-Driven Generative AI](books/rag-driven-generative-ai.jpeg)](books/rag-driven-generative-ai.md) | [RAG-Driven Generative AI](books/rag-driven-generative-ai.md)<br>**Subtitle**: Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone<br>**Authors**: Denis Rothman<br>**Publisher**: Packt | 2024 |
+[Finished in 108ms]
 
 ### Make The List Better
 
