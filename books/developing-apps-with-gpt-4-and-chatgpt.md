@@ -13,8 +13,8 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-1098152482
 * **Pages**: 155
-* **Amazon Rating**: 4.2/5 stars
-* **Goodreads Rating**: 3.65/5 stars
+* **Amazon Rating**: 4.2 stars
+* **Goodreads Rating**: 3.65 stars
 
 
 **Links**: [Amazon](https://a.co/d/8aDJJvi) |
