@@ -13,6 +13,7 @@
 * **Publisher**: Packt
 * **ISBN-13**: 978-1835462317
 * **Pages**: 342
+* **Goodreads Rating**: 3.40 stars
 
 
 **Links**: [Amazon](https://a.co/d/e6rt1da) |

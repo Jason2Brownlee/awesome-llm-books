@@ -13,6 +13,7 @@
 * **Publisher**: Packt
 * **ISBN-13**: 978-1835083468
 * **Pages**: 360
+* **Goodreads Rating**: 3.42 stars
 
 
 **Links**: [Amazon](https://a.co/d/8kVpV3T) |
