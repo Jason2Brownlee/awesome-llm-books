@@ -2,7 +2,7 @@
 
 Some of us learn best by reading high quality books on technical topics.
 
-This project provides a **curated list of technical books** for engineers who want to deepen their understanding of **Large Language Models** (LLMs).
+This is a **curated list** of **technical books** for **engineers** on **Large Language Models** (LLMs).
 
 ## Book List
 
