@@ -6,7 +6,7 @@ This project provides a **curated list of technical books** for engineers who wa
 
 ## Book List
 
-Alphabetical list of books on LLMs, each links to a details page.
+Alphabetical list of books on LLMs. Each cover/title links to more information about the book.
 
 | Cover | Details | Year |
 |-------|---------|------------------|
@@ -19,8 +19,8 @@ Alphabetical list of books on LLMs, each links to a details page.
 
 ### Make The List Better
 
-Are we missing a book?
+Do you have ideas on how we make this list more awesome?
 
-Do you have an amendment?
+Are we missing a book? Do you have an amendment?
 
-Issue a pull request or email any time: Jason.Brownlee05@gmail.com
+Email any time: Jason.Brownlee05@gmail.com
