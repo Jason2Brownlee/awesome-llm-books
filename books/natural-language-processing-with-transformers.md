@@ -1,5 +1,6 @@
 # Natural Language Processing with Transformers
 
+[home](../)
 ![Cover Image](natural-language-processing-with-transformers.jpeg)
 
 ## Details
@@ -29,3 +30,17 @@ Transformers have been used to write realistic news stories, improve Google Sear
 * Apply transformers in real-world scenarios where labeled data is scarce
 * Make transformer models efficient for deployment using techniques such as distillation, pruning, and quantization
 * Train transformers from scratch and learn how to scale to multiple GPUs and distributed environments
+
+## Table of Contents
+
+1. Introduction
+2. Text Classification
+3. Transformer Anatomy
+4. Multilingual Named Entity Recognition
+5. Text Generation
+6. Summarization
+7. Question Answering
+8. Making Transformers Efficient in Production
+9. Dealing with Few to No Labels
+10. Training Transformers from Scratch
+11. Future Directions

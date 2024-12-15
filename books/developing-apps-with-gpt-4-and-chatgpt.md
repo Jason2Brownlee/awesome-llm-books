@@ -1,5 +1,6 @@
 # Developing Apps with GPT-4 and ChatGPT
 
+[home](../)
 ![Cover Image](developing-apps-with-gpt-4-and-chatgpt.jpeg)
 
 ## Details
@@ -30,3 +31,11 @@ You'll learn:
 * How to integrate these models into Python-based applications for NLP tasks
 * How to develop applications using GPT-4 or ChatGPT APIs in Python for text generation, question answering, and content summarization, among other tasks
 * Advanced GPT topics including prompt engineering, fine-tuning models for specific tasks, plug-ins, LangChain, and more
+
+## Table of Contents
+
+1. GPT-4 and ChatGPT Essentials
+2. A Deep Dive into the GPT-4 and ChatGPT APIs
+3. Building Apps with GPT-4 and ChatGPT
+4. Advanced GPT-4 and ChatGPT Techniques
+5. Advancing LLM Capabilities with the LangChain Framework and Plug-ins

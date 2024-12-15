@@ -1,5 +1,6 @@
 # Hands-On Large Language Models
 
+[home](../)
 ![Cover Image](hands-on-large-language-models.jpeg)
 
 ## Details
@@ -34,15 +35,15 @@ This book also helps you:
 
 ## Table of Contents
 
-* Chapter 1: Introduction to Language Models
-* Chapter 2: Tokens and Embeddings
-* Chapter 3: Looking Inside Transformer LLMs
-* Chapter 4: Text Classification
-* Chapter 5: Text Clustering and Topic Modeling
-* Chapter 6: Prompt Engineering
-* Chapter 7: Advanced Text Generation Techniques and Tools
-* Chapter 8: Semantic Search and Retrieval-Augmented Generation
-* Chapter 9: Multimodal Large Language Models
-* Chapter 10: Creating Text Embedding Models
-* Chapter 11: Fine-tuning Representation Models for Classification
-* Chapter 12: Fine-tuning Generation Models
+1. Introduction to Language Models
+2. Tokens and Embeddings
+3. Looking Inside Transformer LLMs
+4. Text Classification
+5. Text Clustering and Topic Modeling
+6. Prompt Engineering
+7. Advanced Text Generation Techniques and Tools
+8. Semantic Search and Retrieval-Augmented Generation
+9. Multimodal Large Language Models
+10. Creating Text Embedding Models
+11. Fine-tuning Representation Models for Classification
+12. Fine-tuning Generation Models

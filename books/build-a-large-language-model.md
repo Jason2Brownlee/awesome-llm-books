@@ -1,5 +1,6 @@
 # Build a Large Language Model
 
+[home](../)
 ![Cover Image](build-a-large-language-model.jpeg)
 
 ## Details
@@ -58,15 +59,15 @@ Readers need intermediate Python skills and some knowledge of machine learning. 
 
 ## Table of Contents
 
-1 Understanding large language models
-2 Working with text data
-3 Coding attention mechanisms
-4 Implementing a GPT model from scratch to generate text
-5 Pretraining on unlabeled data
-6 Fine-tuning for classification
-7 Fine-tuning to follow instructions
-A Introduction to PyTorch
-B References and further reading
-C Exercise solutions
-D Adding bells and whistles to the training loop
-E Parameter-efficient fine-tuning with LoRA
+1. Understanding large language models
+2. Working with text data
+3. Coding attention mechanisms
+4. Implementing a GPT model from scratch to generate text
+5. Pretraining on unlabeled data
+6. Fine-tuning for classification
+7. Fine-tuning to follow instructions
+A. Introduction to PyTorch
+B. References and further reading
+C. Exercise solutions
+D. Adding bells and whistles to the training loop
+E. Parameter-efficient fine-tuning with LoRA

@@ -1,5 +1,6 @@
 # Prompt Engineering for Generative
 
+[home](../)
 ![Cover Image](prompt-engineering-for-generative.png)
 
 ## Details
@@ -33,13 +34,13 @@ Learn how to empower AI to work for you. This book explains:
 
 ## Table of Contents
 
-* Chapter 1: Five Pillars of Prompting
-* Chapter 2: Intro to Text Generation Models
-* Chapter 3: Standard Practices for Text Generation
-* Chapter 4: Advanced Techniques for Text Generation with Langchain
-* Chapter 5: Vector Databases
-* Chapter 6: Autonomous Agents with Memory and Tools
-* Chapter 7: Intro to Diffusion Models for Image Generation
-* Chapter 8: Standard Practices for Image Generation
-* Chapter 9: Advanced Techniques for Image Generation
-* Chapter 10: Building AI-powered Applications
+1. Five Pillars of Prompting
+2. Intro to Text Generation Models
+3. Standard Practices for Text Generation
+4. Advanced Techniques for Text Generation with Langchain
+5. Vector Databases
+6. Autonomous Agents with Memory and Tools
+7. Intro to Diffusion Models for Image Generation
+8. Standard Practices for Image Generation
+9. Advanced Techniques for Image Generation
+10. Building AI-powered Applications
