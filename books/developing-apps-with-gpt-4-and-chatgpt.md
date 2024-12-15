@@ -1,6 +1,7 @@
 # Developing Apps with GPT-4 and ChatGPT
 
 [home](../)
+
 ![Cover Image](developing-apps-with-gpt-4-and-chatgpt.jpeg)
 
 ## Details

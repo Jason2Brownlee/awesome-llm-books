@@ -1,6 +1,7 @@
 # LLM Engineer's Handbook
 
 [home](../)
+
 ![Cover Image](llm-engineer's-handbook.jpeg)
 
 ## Details
@@ -56,4 +57,4 @@ This book is for AI engineers, NLP professionals, and LLM engineers looking to d
 9. RAG Inference Pipeline
 10. Inference Pipeline Deployment
 11. MLOps and LLMOps
-Appendix: MLOps Principles
+12. MLOps Principles

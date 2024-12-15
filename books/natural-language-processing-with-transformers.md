@@ -1,6 +1,7 @@
 # Natural Language Processing with Transformers
 
 [home](../)
+
 ![Cover Image](natural-language-processing-with-transformers.jpeg)
 
 ## Details

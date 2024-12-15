@@ -1,6 +1,7 @@
 # Hands-On Large Language Models
 
 [home](../)
+
 ![Cover Image](hands-on-large-language-models.jpeg)
 
 ## Details

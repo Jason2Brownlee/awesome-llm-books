@@ -1,6 +1,7 @@
 # Build a Large Language Model
 
 [home](../)
+
 ![Cover Image](build-a-large-language-model.jpeg)
 
 ## Details
@@ -66,8 +67,8 @@ Readers need intermediate Python skills and some knowledge of machine learning. 
 5. Pretraining on unlabeled data
 6. Fine-tuning for classification
 7. Fine-tuning to follow instructions
-A. Introduction to PyTorch
-B. References and further reading
-C. Exercise solutions
-D. Adding bells and whistles to the training loop
-E. Parameter-efficient fine-tuning with LoRA
+8. Introduction to PyTorch
+8. References and further reading
+12. Exercise solutions
+13. Adding bells and whistles to the training loop
+14. Parameter-efficient fine-tuning with LoRA
