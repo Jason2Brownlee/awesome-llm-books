@@ -5,10 +5,11 @@
 ## Details
 
 * **Title**: Natural Language Processing with Transformers
+* **Subtitle**: Building Language Applications with Hugging Face
 * **Authors**: Lewis Tunstall, Leandro von Werra and Thomas Wolf
 * **Publication Date**: 2022
 * **Publisher**: O'Reilly
-* **ISBN**: 978-9355420329
+* **ISBN-13**: 978-9355420329
 * **Pages**: 406
 
 

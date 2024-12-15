@@ -5,10 +5,11 @@
 ## Details
 
 * **Title**: Prompt Engineering for Generative
+* **Subtitle**: Future-Proof Inputs for Reliable AI Outputs
 * **Authors**: James Phoenix and Mike Taylor
 * **Publication Date**: 2024
 * **Publisher**: O'Reilly
-* **ISBN**: 978-1098153434
+* **ISBN-13**: 978-1098153434
 * **Pages**: 422
 
 

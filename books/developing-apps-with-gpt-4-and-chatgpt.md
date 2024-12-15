@@ -5,10 +5,11 @@
 ## Details
 
 * **Title**: Developing Apps with GPT-4 and ChatGPT
+* **Subtitle**: Build Intelligent Chatbots, Content Generators, and More
 * **Authors**: Olivier Caelen and Marie-Alice Blete
 * **Publication Date**: 2023
 * **Publisher**: O'Reilly
-* **ISBN**: 978-1098152482
+* **ISBN-13**: 978-1098152482
 * **Pages**: 155
 
 

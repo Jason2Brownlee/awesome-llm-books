@@ -5,10 +5,11 @@
 ## Details
 
 * **Title**: Build a Large Language Model
+* **Subtitle**: (From Scratch)
 * **Authors**: Sebastian Raschka
 * **Publication Date**: 2024
 * **Publisher**: Manning
-* **ISBN**: 978-1633437166
+* **ISBN-13**: 978-1633437166
 * **Pages**: 368
 
 

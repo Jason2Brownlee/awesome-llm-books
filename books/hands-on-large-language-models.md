@@ -5,10 +5,11 @@
 ## Details
 
 * **Title**: Hands-On Large Language Models
+* **Subtitle**: Language Understanding and Generation
 * **Authors**: Jay Alammar and Maarten Grootendorst
 * **Publication Date**: 2024
 * **Publisher**: O'Reilly
-* **ISBN**: 978-1098150969
+* **ISBN-13**: 978-1098150969
 * **Pages**: 425
 
 

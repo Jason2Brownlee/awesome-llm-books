@@ -5,10 +5,11 @@
 ## Details
 
 * **Title**: LLM Engineer's Handbook
+* **Subtitle**: Master the art of engineering large language models from concept to production
 * **Authors**: Paul Iusztin and Maxime Labonne
 * **Publication Date**: 2024
 * **Publisher**: Packt
-* **ISBN**: 978-1836200079
+* **ISBN-13**: 978-1836200079
 
 
 **Links**: [Amazon](https://a.co/d/5H3ufht) |
