@@ -2,7 +2,7 @@
 
 Some of us learn best by reading high quality books on technical topics.
 
-This is a **curated list** of **technical books** for **engineers** on **Large Language Models** (LLMs).
+This is a **curated list** of **books** for **engineers** on **development** with **Large Language Models** (LLMs).
 
 ## Books:
 
@@ -11,6 +11,7 @@ Alphabetical list of books on LLMs. Each cover/title links to more information a
 | Cover | Details | Year |
 |-------|---------|------------------|
 | [![Build a Large Language Model](books/build-a-large-language-model.jpeg)](books/build-a-large-language-model.md) | [Build a Large Language Model](books/build-a-large-language-model.md)<br>**Subtitle**: (From Scratch)<br>**Authors**: Sebastian Raschka<br>**Publisher**: Manning | 2024 |
+| [![Build LLM Applications](books/build-llm-applications.jpeg)](books/build-llm-applications.md) | [Build LLM Applications](books/build-llm-applications.md)<br>**Subtitle**: (from Scratch)<br>**Authors**: Hamza Farooq<br>**Publisher**: Manning | 2025 |
 | [![Building LLMs for Production](books/building-llms-for-production.jpeg)](books/building-llms-for-production.md) | [Building LLMs for Production](books/building-llms-for-production.md)<br>**Subtitle**: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG<br>**Authors**: Louis-François Bouchard and Louie Peters<br>**Publisher**: Independently published | 2024 |
 | [![Developing Apps with GPT-4 and ChatGPT](books/developing-apps-with-gpt-4-and-chatgpt.jpeg)](books/developing-apps-with-gpt-4-and-chatgpt.md) | [Developing Apps with GPT-4 and ChatGPT](books/developing-apps-with-gpt-4-and-chatgpt.md)<br>**Subtitle**: Build Intelligent Chatbots, Content Generators, and More<br>**Authors**: Olivier Caelen and Marie-Alice Blete<br>**Publisher**: O'Reilly | 2023 |
 | [![Hands-On Large Language Models](books/hands-on-large-language-models.jpeg)](books/hands-on-large-language-models.md) | [Hands-On Large Language Models](books/hands-on-large-language-models.md)<br>**Subtitle**: Language Understanding and Generation<br>**Authors**: Jay Alammar and Maarten Grootendorst<br>**Publisher**: O'Reilly | 2024 |
@@ -21,6 +22,7 @@ Alphabetical list of books on LLMs. Each cover/title links to more information a
 | [![Prompt Engineering for Generative](books/prompt-engineering-for-generative.png)](books/prompt-engineering-for-generative.md) | [Prompt Engineering for Generative](books/prompt-engineering-for-generative.md)<br>**Subtitle**: Future-Proof Inputs for Reliable AI Outputs<br>**Authors**: James Phoenix and Mike Taylor<br>**Publisher**: O'Reilly | 2024 |
 | [![Prompt Engineering for LLMs](books/prompt-engineering-for-llms.jpeg)](books/prompt-engineering-for-llms.md) | [Prompt Engineering for LLMs](books/prompt-engineering-for-llms.md)<br>**Subtitle**: The Art and Science of Building Large Language Model–Based Applications<br>**Authors**: John Berryman and Albert Ziegler<br>**Publisher**: O'Reilly | 2024 |
 | [![Quick Start Guide to Large Language Models](books/quick-start-guide-to-large-language-models.jpeg)](books/quick-start-guide-to-large-language-models.md) | [Quick Start Guide to Large Language Models](books/quick-start-guide-to-large-language-models.md)<br>**Subtitle**: Strategies and Best Practices for ChatGPT, Embeddings, Fine-Tuning, and Multimodal AI<br>**Authors**: Sinan Ozdemir <br>**Publisher**: Addison-Wesley | 2024 |
+
 
 ### Make The List Better
 
