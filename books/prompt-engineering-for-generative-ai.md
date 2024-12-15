@@ -1,12 +1,12 @@
-# Prompt Engineering for Generative
+# Prompt Engineering for Generative AI
 
 [home](../)
 
-![Cover Image](prompt-engineering-for-generative.png)
+![Cover Image](prompt-engineering-for-generative-ai.png)
 
 ## Details
 
-* **Title**: Prompt Engineering for Generative
+* **Title**: Prompt Engineering for Generative AI
 * **Subtitle**: Future-Proof Inputs for Reliable AI Outputs
 * **Authors**: James Phoenix and Mike Taylor
 * **Publication Date**: 2024
