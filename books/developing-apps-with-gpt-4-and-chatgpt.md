@@ -33,7 +33,7 @@ You'll learn:
 * How to develop applications using GPT-4 or ChatGPT APIs in Python for text generation, question answering, and content summarization, among other tasks
 * Advanced GPT topics including prompt engineering, fine-tuning models for specific tasks, plug-ins, LangChain, and more
 
-## Table of Contents
+## Contents
 
 1. GPT-4 and ChatGPT Essentials
 2. A Deep Dive into the GPT-4 and ChatGPT APIs

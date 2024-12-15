@@ -32,7 +32,7 @@ Transformers have been used to write realistic news stories, improve Google Sear
 * Make transformer models efficient for deployment using techniques such as distillation, pruning, and quantization
 * Train transformers from scratch and learn how to scale to multiple GPUs and distributed environments
 
-## Table of Contents
+## Contents
 
 1. Introduction
 2. Text Classification

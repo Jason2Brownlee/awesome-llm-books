@@ -33,7 +33,7 @@ Learn how to empower AI to work for you. This book explains:
 * The influence of LLM and diffusion model architecture—and how to best interact with it
 * How these principles apply in practice in the domains of natural language processing, text and image generation, and code
 
-## Table of Contents
+## Contents
 
 1. Five Pillars of Prompting
 2. Intro to Text Generation Models

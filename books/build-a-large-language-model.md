@@ -58,7 +58,7 @@ About the reader
 
 Readers need intermediate Python skills and some knowledge of machine learning. The LLM you create will run on any modern laptop and can optionally utilize GPUs.
 
-## Table of Contents
+## Contents
 
 1. Understanding large language models
 2. Working with text data

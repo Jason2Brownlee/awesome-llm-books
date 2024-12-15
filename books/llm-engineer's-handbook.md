@@ -44,7 +44,7 @@ What you will learn
 Who this book is for
 This book is for AI engineers, NLP professionals, and LLM engineers looking to deepen their understanding of LLMs. Basic knowledge of LLMs and the Gen AI landscape, Python and AWS is recommended. Whether you are new to AI or looking to enhance your skills, this book provides comprehensive guidance on implementing LLMs in real-world scenarios.
 
-## Table of Contents
+## Contents
 
 1. Undersstanding the LLM Twin Concept and Architecture
 2. Tooling and Installation

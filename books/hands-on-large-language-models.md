@@ -34,7 +34,7 @@ This book also helps you:
 * Explore how generative models can be used, from prompt engineering all the way to retrieval-augmented generation
 * Gain a deeper understanding of how to train LLMs and optimize them for specific applications using generative model fine-tuning, contrastive fine-tuning, and in-context learning
 
-## Table of Contents
+## Contents
 
 1. Introduction to Language Models
 2. Tokens and Embeddings
