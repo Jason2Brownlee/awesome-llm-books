@@ -13,6 +13,8 @@
 * **Publisher**: Independently published
 * **ISBN-13**: 979-8341060043
 * **Pages**: 546
+* **Amazon Rating**: 4.6 stars
+* **Goodreads Rating**: 0.00 stars
 
 
 **Links**: [Amazon](https://a.co/d/7nVhfVT) |
