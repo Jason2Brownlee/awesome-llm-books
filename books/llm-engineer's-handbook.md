@@ -12,7 +12,8 @@
 * **Publication Date**: 2024
 * **Publisher**: Packt
 * **ISBN-13**: 978-1836200079
-* **Goodreads Rating**: 4.00 stars
+* **Amazon Rating**: 4.7/5 stars
+* **Goodreads Rating**: 4.00/5 stars
 
 
 **Links**: [Amazon](https://a.co/d/5H3ufht) |

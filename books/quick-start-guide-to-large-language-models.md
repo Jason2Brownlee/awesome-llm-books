@@ -13,7 +13,8 @@
 * **Publisher**: Addison-Wesley
 * **ISBN-13**: 978-0135346563
 * **Pages**: 384
-* **Goodreads Rating**: 3.69 stars
+* **Amazon Rating**: 5/5 stars
+* **Goodreads Rating**: 3.69/5 stars
 
 
 **Links**: [Amazon](https://a.co/d/aUsDJ7e) |

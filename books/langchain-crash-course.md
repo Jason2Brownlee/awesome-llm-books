@@ -13,7 +13,8 @@
 * **Publisher**: Independently Published
 * **ISBN-13**: 978-9819411474
 * **Pages**: 88
-* **Goodreads Rating**: 4.13 stars
+* **Amazon Rating**: 4.2/5 stars
+* **Goodreads Rating**: 4.13/5 stars
 
 
 **Links**: [Amazon](https://a.co/d/ibgu6jy) |

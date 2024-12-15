@@ -13,7 +13,8 @@
 * **Publisher**: Manning
 * **ISBN-13**: 978-1633437166
 * **Pages**: 368
-* **Goodreads Rating**: 4.65 stars
+* **Amazon Rating**: 4.7/5 stars
+* **Goodreads Rating**: 4.65/5 stars
 
 
 **Links**: [Amazon](https://a.co/d/bXGGLyC) |

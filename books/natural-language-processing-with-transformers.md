@@ -13,7 +13,8 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-9355420329
 * **Pages**: 406
-* **Goodreads Rating**: 4.42 stars
+* **Amazon Rating**: 4.6/5 stars
+* **Goodreads Rating**: 4.42/5 stars
 
 
 **Links**: [Amazon](https://a.co/d/5WIiVAC) |
