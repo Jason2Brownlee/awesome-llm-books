@@ -41,17 +41,17 @@ Build LLM Applications (From Scratch) is a practical and comprehensive handbook 
 ## Contents
 
 PART 1: THE FUNDAMENTALS
-1. The World of Large Language Models
-2. An in-depth look into the soul of the Transformer Architecture
-3. Encoder models in action: Semantic-Based Retrieval Systems
+* 1. The World of Large Language Models
+* 2. An in-depth look into the soul of the Transformer Architecture
+* 3. Encoder models in action: Semantic-Based Retrieval Systems
 
 PART 2: RETRIEVAL SYSTEMS
-4. Semantic Search from Scratch
-5. Combining Encoder & Decoder Model to Create RAG Applications
-6. Advanced RAG techniques with knowledge graphs and Semantic Cache
+* 4. Semantic Search from Scratch
+* 5. Combining Encoder & Decoder Model to Create RAG Applications
+* 6. Advanced RAG techniques with knowledge graphs and Semantic Cache
 
 PART 3: BUILDING ENTERPRISE LLM APPLICATION
-7. Introducing Agents, the next Generation of AI
-8. Fine-Tuning and Domain Adapation
-9. Deploying Language Models as APIs
-10. OpenSource Large Language Models
+* 7. Introducing Agents, the next Generation of AI
+* 8. Fine-Tuning and Domain Adapation
+* 9. Deploying Language Models as APIs
+* 10. OpenSource Large Language Models
