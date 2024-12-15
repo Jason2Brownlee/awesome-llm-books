@@ -48,3 +48,21 @@ The goal of this course is to teach you LangChain development in a manageable wa
 Working Through This Course
 
 This course is purposely broken down into short sections where the development process of each section will center on different essential topics. The course a practical hands on approach to learning through practice. You learn best when you code along with the examples.
+
+## Contents
+
+1. Introduction
+2. What Is Langchain
+3. How Does Langchain Work
+4. Installation, Setup And Our First Langchain App 
+5. Connecting To Openai Llm
+6. Prompt Templates
+7. Simple Chains
+8. Sequential Chains
+9. Agents
+10. Chat With A Document
+11. Adding Memory (Chat History)
+12. Outputting The Chat History
+13. Uploading Custom Documents
+14. Loading Different File Types
+15. Chat With Youtube
