@@ -10,6 +10,7 @@ Alphabetical list of books on LLMs. Each cover/title links to more information a
 
 | Cover | Details | Year |
 |-------|---------|------------------|
+| [![AI Engineering](books/ai-engineering.jpeg)](books/ai-engineering.md) | [AI Engineering](books/ai-engineering.md)<br>**Subtitle**: Building Applications with Foundation Models<br>**Authors**: Chip Huyen<br>**Publisher**: O'Reilly | 2025 |
 | [![Build a Large Language Model](books/build-a-large-language-model.jpeg)](books/build-a-large-language-model.md) | [Build a Large Language Model](books/build-a-large-language-model.md)<br>**Subtitle**: (From Scratch)<br>**Authors**: Sebastian Raschka<br>**Publisher**: Manning | 2024 |
 | [![Build LLM Applications](books/build-llm-applications.jpeg)](books/build-llm-applications.md) | [Build LLM Applications](books/build-llm-applications.md)<br>**Subtitle**: (from Scratch)<br>**Authors**: Hamza Farooq<br>**Publisher**: Manning | 2025 |
 | [![Building LLM Powered Applications](books/building-llm-powered-applications.jpeg)](books/building-llm-powered-applications.md) | [Building LLM Powered Applications](books/building-llm-powered-applications.md)<br>**Subtitle**: Create intelligent apps and agents with large language models<br>**Authors**: Valentina Alto<br>**Publisher**: Packt | 2024 |
