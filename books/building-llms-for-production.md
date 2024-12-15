@@ -42,7 +42,7 @@ Whether you're looking to enhance your skills or dive into the world of AI for t
 
 1. Introduction to Large Language Models
 2. LLM Architectures & Landscape
-3. III LLMs in Practice
+3. LLMs in Practice
 4. Introduction to Prompting
 5. Retrieval-Augmented Generation
 6. Introduction to LangChain & LlamaIndex

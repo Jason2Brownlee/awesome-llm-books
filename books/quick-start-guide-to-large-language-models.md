@@ -44,10 +44,12 @@ Part I - Introduction to Large Language Models
 * Chapter 2: Semantic Search with LLMs
 * Chapter 3: First Steps with Prompt Engineering
 * Chapter 4: The AI Ecosystem: Putting the Pieces Together
+
 Part II - Getting the Most Out of LLMs
 * Chapter 5: Optimizing LLMs with Customized Fine-Tuning
 * Chapter 6: Advanced Prompt Engineering
 * Chapter 7: Customizing Embeddings and Model Architectures
+
 Part III - Advanced LLM Usage
 * Chapter 9: Moving Beyond Foundation Models
 * Chapter 10: Advanced Open-Source LLM Fine-Tuning
