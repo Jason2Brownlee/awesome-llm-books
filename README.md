@@ -31,6 +31,19 @@ Alphabetical list of books on LLMs. Each cover/title links to more information a
 | [![RAG-Driven Generative AI](books/rag-driven-generative-ai.jpeg)](books/rag-driven-generative-ai.md) | [RAG-Driven Generative AI](books/rag-driven-generative-ai.md)<br>**Subtitle**: Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone<br>**Authors**: Denis Rothman<br>**Publisher**: Packt<br>**Star Rating**: 4.1 on Amazon, 4.14 on Goodreads  | 2024 |
 | [![Super Study Guide](books/super-study-guide.jpeg)](books/super-study-guide.md) | [Super Study Guide](books/super-study-guide.md)<br>**Subtitle**: Transformers & Large Language Models<br>**Authors**: Afshine Amidi and Shervine Amidi <br>**Publisher**: Independently published<br>**Star Rating**: 4.8 on Amazon, 4.67 on Goodreads  | 2024 |
 
+### On Curation
+
+The above list is not "all books on LLM development", instead it is filtered using the following procedure:
+
+1. Create a master list of all known books on LLM development (amazon, goodreads, google books, etc.)
+2. Read book blurb and table of contents to confirm relevance (for "engineers doing LLM development").
+3. Read reviews and check star ratings for quality (quality check).
+4. Read comments and discussion about the book on social (twitter/reddit/etc).
+5. Acquire the ebook version of the book, if possible (final read/skim to confirm relevance and quality).
+6. Final judgement call (publisher, gut check).
+
+Note that I update the list based on newly published books and emails I received about new books. Additionally, listed star ratings are updated periodically.
+
 ### Make The List Better
 
 Do you have ideas on how we make this list more awesome?
