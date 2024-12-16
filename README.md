@@ -35,7 +35,7 @@ Alphabetical list of books on LLMs. Each cover/title links to more information a
 
 The above list is not "all books on LLM development", instead it is filtered using the following procedure:
 
-1. Create a master list of all known books on LLM development (amazon, goodreads, google books, etc.)
+1. Create a [master list](https://docs.google.com/spreadsheets/d/1AGExX1aYINy_FsBRmr9z8OyalJcPso2mo28GraHqhSQ/edit?usp=sharing) of all known books on LLM development (amazon, goodreads, google books, etc.)
 2. Read book blurb and table of contents to confirm relevance (for "engineers doing LLM development").
 3. Read reviews and check star ratings for quality (quality check).
 4. Read comments and discussion about the book on social (twitter/reddit/etc).
