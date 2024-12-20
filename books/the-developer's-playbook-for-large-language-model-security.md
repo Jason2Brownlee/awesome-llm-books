@@ -14,7 +14,7 @@
 * **ISBN-13**: 978-1098162207
 * **Pages**: 200
 * **Amazon Rating**: 5 stars
-* **Goodreads Rating**: 3.60 stars
+* **Goodreads Rating**: 3.67 stars
 
 
 **Links**: [Amazon](https://a.co/d/d3rJVkn) |
