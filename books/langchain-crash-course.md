@@ -14,7 +14,7 @@
 * **ISBN-13**: 978-9819411474
 * **Pages**: 88
 * **Amazon Rating**: 4.2 stars
-* **Goodreads Rating**: 4.13 stars
+* **Goodreads Rating**: 4.15 stars
 
 
 **Links**: [Amazon](https://a.co/d/ibgu6jy) |

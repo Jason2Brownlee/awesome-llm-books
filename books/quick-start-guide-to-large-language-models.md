@@ -14,7 +14,7 @@
 * **ISBN-13**: 978-0135346563
 * **Pages**: 384
 * **Amazon Rating**: 5 stars
-* **Goodreads Rating**: 3.69 stars
+* **Goodreads Rating**: 3.64 stars
 
 
 **Links**: [Amazon](https://a.co/d/aUsDJ7e) |

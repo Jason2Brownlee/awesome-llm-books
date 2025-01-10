@@ -13,8 +13,8 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-1098166304
 * **Pages**: 532
-* **Amazon Rating**: 5 stars
-* **Goodreads Rating**: 4.67 stars
+* **Amazon Rating**: 4.7 stars
+* **Goodreads Rating**: 4.59 stars
 
 
 **Links**: [Amazon](https://a.co/d/hAI9OXl) |

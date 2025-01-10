@@ -14,7 +14,7 @@
 * **ISBN-13**: 979-8836693312
 * **Pages**: 247
 * **Amazon Rating**: 4.8 stars
-* **Goodreads Rating**: 4.67 stars
+* **Goodreads Rating**: 4.64 stars
 
 
 **Links**: [Amazon](https://a.co/d/aE3pz72) |
