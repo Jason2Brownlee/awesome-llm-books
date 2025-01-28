@@ -14,7 +14,7 @@
 * **ISBN-13**: 978-1835462317
 * **Pages**: 342
 * **Amazon Rating**: 4.5 stars
-* **Goodreads Rating**: 3.43 stars
+* **Goodreads Rating**: 3.40 stars
 
 
 **Links**: [Amazon](https://a.co/d/e6rt1da) |

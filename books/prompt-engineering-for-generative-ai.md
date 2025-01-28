@@ -13,7 +13,7 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-1098153434
 * **Pages**: 422
-* **Amazon Rating**: 4.4 stars
+* **Amazon Rating**: 4.5 stars
 * **Goodreads Rating**: 3.65 stars
 
 

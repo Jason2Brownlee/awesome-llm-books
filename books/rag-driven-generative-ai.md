@@ -13,8 +13,8 @@
 * **Publisher**: Packt
 * **ISBN-13**: 978-1836200918
 * **Pages**: 334
-* **Amazon Rating**: 4 stars
-* **Goodreads Rating**: 4.00 stars
+* **Amazon Rating**: 4.1 stars
+* **Goodreads Rating**: 3.89 stars
 
 
 **Links**: [Amazon](https://a.co/d/2zjaDK4) |

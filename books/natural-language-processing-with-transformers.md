@@ -14,7 +14,7 @@
 * **ISBN-13**: 978-9355420329
 * **Pages**: 406
 * **Amazon Rating**: 4.6 stars
-* **Goodreads Rating**: 4.42 stars
+* **Goodreads Rating**: 4.41 stars
 
 
 **Links**: [Amazon](https://a.co/d/5WIiVAC) |
