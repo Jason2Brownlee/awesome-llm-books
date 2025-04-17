@@ -14,7 +14,7 @@
 * **ISBN-13**: 978-1835083468
 * **Pages**: 360
 * **Amazon Rating**: 4.3 stars
-* **Goodreads Rating**: 3.42 stars
+* **Goodreads Rating**: 3.50 stars
 
 
 **Links**: [Amazon](https://a.co/d/8kVpV3T) |

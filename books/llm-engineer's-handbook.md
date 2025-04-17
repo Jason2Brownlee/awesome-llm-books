@@ -13,7 +13,7 @@
 * **Publisher**: Packt
 * **ISBN-13**: 978-1836200079
 * **Amazon Rating**: 4.6 stars
-* **Goodreads Rating**: 3.73 stars
+* **Goodreads Rating**: 3.54 stars
 
 
 **Links**: [Amazon](https://a.co/d/5H3ufht) |

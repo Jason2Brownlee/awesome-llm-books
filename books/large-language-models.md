@@ -13,8 +13,8 @@
 * **Publisher**: Springer
 * **ISBN-13**: 978-3031656460
 * **Pages**: 506
-* **Amazon Rating**: 4 stars
-* **Goodreads Rating**: 3.50 stars
+* **Amazon Rating**: 4.1 stars
+* **Goodreads Rating**: 4.00 stars
 
 
 **Links**: [Amazon](https://a.co/d/6IMNpkX) |

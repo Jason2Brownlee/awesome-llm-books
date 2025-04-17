@@ -14,7 +14,7 @@
 * **ISBN-13**: 978-1098153434
 * **Pages**: 422
 * **Amazon Rating**: 4.5 stars
-* **Goodreads Rating**: 3.65 stars
+* **Goodreads Rating**: 3.56 stars
 
 
 **Links**: [Amazon](https://a.co/d/52xLb9K) |

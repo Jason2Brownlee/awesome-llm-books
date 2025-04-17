@@ -14,7 +14,7 @@
 * **ISBN-13**: 978-1579550813
 * **Pages**: 102
 * **Amazon Rating**: 4.2 stars
-* **Goodreads Rating**: 3.88 stars
+* **Goodreads Rating**: 3.86 stars
 
 
 **Links**: [Amazon](https://a.co/d/79xVzR5) |

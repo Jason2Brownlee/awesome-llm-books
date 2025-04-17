@@ -13,8 +13,8 @@
 * **Publisher**: Independently published
 * **ISBN-13**: 979-8324731472
 * **Pages**: 463
-* **Amazon Rating**: 4.5 stars
-* **Goodreads Rating**: 4.17 stars
+* **Amazon Rating**: 4.4 stars
+* **Goodreads Rating**: 4.10 stars
 
 
 **Links**: [Amazon](https://a.co/d/grz7eTc) |
