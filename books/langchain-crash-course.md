@@ -13,11 +13,11 @@
 * **Publisher**: Independently Published
 * **ISBN-13**: 978-9819411474
 * **Pages**: 88
-* **Amazon Rating**: 4.2 stars
-* **Goodreads Rating**: 4.07 stars
+* **Amazon Rating**: 4.1 stars
+* **Goodreads Rating**: 4.00 stars
 
 
-**Links**: [Amazon](https://a.co/d/ibgu6jy) |
+**Links**: [Amazon](https://amzn.to/3WpZfD4) |
 [Goodreads](https://www.goodreads.com/book/show/198671257-langchain-crash-course) |
 [Publisher](https://greglim.gumroad.com/l/langchain)
 

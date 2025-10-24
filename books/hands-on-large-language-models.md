@@ -13,11 +13,11 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-1098150969
 * **Pages**: 425
-* **Amazon Rating**: 4.6 stars
-* **Goodreads Rating**: 4.36 stars
+* **Amazon Rating**: 4.7 stars
+* **Goodreads Rating**: 4.33 stars
 
 
-**Links**: [Amazon](https://a.co/d/hXs5jDF) |
+**Links**: [Amazon](https://amzn.to/43stjBO) |
 [Goodreads](https://www.goodreads.com/book/show/210408850-hands-on-large-language-models) |
 [Publisher](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/) |
 [GitHub Project](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)

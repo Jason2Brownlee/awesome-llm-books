@@ -13,11 +13,11 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-1098166304
 * **Pages**: 532
-* **Amazon Rating**: 4.6 stars
-* **Goodreads Rating**: 4.56 stars
+* **Amazon Rating**: 4.7 stars
+* **Goodreads Rating**: 4.46 stars
 
 
-**Links**: [Amazon](https://a.co/d/hAI9OXl) |
+**Links**: [Amazon](https://amzn.to/3WpZ0Ia) |
 [Goodreads](https://www.goodreads.com/book/show/216848047-ai-engineering) |
 [Publisher](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) |
 [GitHub Project](https://github.com/chiphuyen/aie-book)

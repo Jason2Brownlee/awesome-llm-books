@@ -17,7 +17,7 @@
 * **Goodreads Rating**: 4.10 stars
 
 
-**Links**: [Amazon](https://a.co/d/grz7eTc) |
+**Links**: [Amazon](https://amzn.to/4oHqYvf) |
 [Goodreads](https://www.goodreads.com/book/show/213731760-building-llms-for-production) |
 [Publisher](https://www.oreilly.com/library/view/building-llms-for/9798324731472/)
 

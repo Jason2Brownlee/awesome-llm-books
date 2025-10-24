@@ -14,10 +14,10 @@
 * **ISBN-13**: 978-1098159221
 * **Pages**: 309
 * **Amazon Rating**: 4.4 stars
-* **Goodreads Rating**: 4.50 stars
+* **Goodreads Rating**: 4.33 stars
 
 
-**Links**: [Amazon](https://a.co/d/f6xUdNI) |
+**Links**: [Amazon](https://amzn.to/47Evip3) |
 [Goodreads](https://www.goodreads.com/book/show/197525483-generative-ai-on-aws) |
 [Publisher](https://www.oreilly.com/library/view/generative-ai-on/9781098159214/) |
 [GitHub Project](https://github.com/generative-ai-on-aws/generative-ai-on-aws)

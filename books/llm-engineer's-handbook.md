@@ -13,10 +13,10 @@
 * **Publisher**: Packt
 * **ISBN-13**: 978-1836200079
 * **Amazon Rating**: 4.6 stars
-* **Goodreads Rating**: 3.54 stars
+* **Goodreads Rating**: 3.85 stars
 
 
-**Links**: [Amazon](https://a.co/d/5H3ufht) |
+**Links**: [Amazon](https://amzn.to/4htSycL) |
 [Goodreads](https://www.goodreads.com/book/show/216193554-llm-engineer-s-handbook) |
 [Publisher](https://www.packtpub.com/en-au/product/llm-engineers-handbook-9781836200062) |
 [GitHub Project](https://github.com/PacktPublishing/LLM-Engineers-Handbook)

@@ -13,11 +13,11 @@
 * **Publisher**: Addison-Wesley
 * **ISBN-13**: 978-0135346563
 * **Pages**: 384
-* **Amazon Rating**: 4.9 stars
+* **Amazon Rating**: 4.4 stars
 * **Goodreads Rating**: 3.64 stars
 
 
-**Links**: [Amazon](https://a.co/d/aUsDJ7e) |
+**Links**: [Amazon](https://amzn.to/4oF2hj1) |
 [Goodreads](https://www.goodreads.com/book/show/126850297-quick-start-guide-to-large-language-models) |
 [Publisher](https://www.pearson.com/en-us/subject-catalog/p/quick-start-guide-to-large-language-models-2nd-edition/P200000012793) |
 [GitHub Project](https://github.com/sinanuozdemir/quick-start-guide-to-llms)

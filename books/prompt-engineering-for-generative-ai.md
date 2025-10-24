@@ -14,10 +14,10 @@
 * **ISBN-13**: 978-1098153434
 * **Pages**: 422
 * **Amazon Rating**: 4.5 stars
-* **Goodreads Rating**: 3.56 stars
+* **Goodreads Rating**: 3.62 stars
 
 
-**Links**: [Amazon](https://a.co/d/52xLb9K) |
+**Links**: [Amazon](https://amzn.to/4oEZc2o) |
 [Goodreads](https://www.goodreads.com/book/show/204133880-prompt-engineering-for-generative-ai) |
 [Publisher](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) |
 [GitHub Project](https://github.com/BrightPool/prompt-engineering-for-generative-ai-examples)

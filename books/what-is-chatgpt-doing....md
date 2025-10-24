@@ -17,7 +17,7 @@
 * **Goodreads Rating**: 3.86 stars
 
 
-**Links**: [Amazon](https://a.co/d/79xVzR5) |
+**Links**: [Amazon](https://amzn.to/4o0DjdO) |
 [Goodreads](https://www.goodreads.com/book/show/123451665-what-is-chatgpt-doing-and-why-does-it-work) |
 [Publisher](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 

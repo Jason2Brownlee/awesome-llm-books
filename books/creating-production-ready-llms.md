@@ -13,11 +13,11 @@
 * **Publisher**: Independently published
 * **ISBN-13**: 979-8341060043
 * **Pages**: 546
-* **Amazon Rating**: 4.5 stars
+* **Amazon Rating**: 4.3 stars
 * **Goodreads Rating**: 0.00 stars
 
 
-**Links**: [Amazon](https://a.co/d/7nVhfVT) |
+**Links**: [Amazon](https://amzn.to/48Mr6ou) |
 [Goodreads](https://www.goodreads.com/book/show/219981025-creating-production-ready-llms) |
 [Publisher](https://www.amazon.com.au/stores/author/B0DJRMJX76/about)
 

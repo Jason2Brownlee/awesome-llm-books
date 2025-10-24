@@ -13,11 +13,11 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-1098152482
 * **Pages**: 155
-* **Amazon Rating**: 4.2 stars
+* **Amazon Rating**: 4.1 stars
 * **Goodreads Rating**: 3.67 stars
 
 
-**Links**: [Amazon](https://a.co/d/8aDJJvi) |
+**Links**: [Amazon](https://amzn.to/4qr3gVr) |
 [Goodreads](https://www.goodreads.com/book/show/181704874-developing-apps-with-gpt-4-and-chatgpt) |
 [Publisher](https://www.oreilly.com/library/view/developing-apps-with/9781098152475/) |
 [GitHub Project](https://github.com/malywut/gpt_examples)

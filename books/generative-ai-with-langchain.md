@@ -14,10 +14,10 @@
 * **ISBN-13**: 978-1835083468
 * **Pages**: 360
 * **Amazon Rating**: 4.3 stars
-* **Goodreads Rating**: 3.50 stars
+* **Goodreads Rating**: 3.58 stars
 
 
-**Links**: [Amazon](https://a.co/d/8kVpV3T) |
+**Links**: [Amazon](https://amzn.to/3L9H8ig) |
 [Goodreads](https://www.goodreads.com/book/show/185125672-generative-ai-with-langchain) |
 [Publisher](https://www.packtpub.com/en-us/product/generative-ai-with-langchain-9781835083468) |
 [GitHub Project](https://github.com/benman1/generative_ai_with_langchain)

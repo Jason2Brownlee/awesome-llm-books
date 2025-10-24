@@ -14,10 +14,10 @@
 * **ISBN-13**: 979-8836693312
 * **Pages**: 247
 * **Amazon Rating**: 4.6 stars
-* **Goodreads Rating**: 4.58 stars
+* **Goodreads Rating**: 4.62 stars
 
 
-**Links**: [Amazon](https://a.co/d/aE3pz72) |
+**Links**: [Amazon](https://amzn.to/4qJrXwP) |
 [Goodreads](https://www.goodreads.com/book/show/217141763-super-study-guide) |
 [Publisher](https://superstudy.guide/transformers-large-language-models/)
 

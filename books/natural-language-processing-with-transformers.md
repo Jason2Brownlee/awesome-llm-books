@@ -14,10 +14,10 @@
 * **ISBN-13**: 978-9355420329
 * **Pages**: 406
 * **Amazon Rating**: 4.6 stars
-* **Goodreads Rating**: 4.41 stars
+* **Goodreads Rating**: 4.39 stars
 
 
-**Links**: [Amazon](https://a.co/d/5WIiVAC) |
+**Links**: [Amazon](https://amzn.to/3JrAhjO) |
 [Goodreads](https://www.goodreads.com/book/show/60114857-natural-language-processing-with-transformers) |
 [Publisher](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) |
 [GitHub Project](https://github.com/nlp-with-transformers/notebooks)

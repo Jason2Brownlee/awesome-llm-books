@@ -13,11 +13,11 @@
 * **Publisher**: Springer
 * **ISBN-13**: 978-3031656460
 * **Pages**: 506
-* **Amazon Rating**: 4.1 stars
-* **Goodreads Rating**: 4.00 stars
+* **Amazon Rating**: 4.4 stars
+* **Goodreads Rating**: 4.33 stars
 
 
-**Links**: [Amazon](https://a.co/d/6IMNpkX) |
+**Links**: [Amazon](https://amzn.to/4ni6d8h) |
 [Goodreads](https://www.goodreads.com/book/show/214355031-large-language-models) |
 [Publisher](https://link.springer.com/book/10.1007/978-3-031-65647-7) |
 [GitHub Project](https://github.com/springer-llms-deep-dive/llms-deep-dive-tutorials)

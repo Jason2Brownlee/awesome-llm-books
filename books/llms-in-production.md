@@ -13,11 +13,11 @@
 * **Publisher**: Manning
 * **ISBN-13**: 978-1633437203
 * **Pages**: 456
-* **Amazon Rating**: 4.4 stars
-* **Goodreads Rating**: 4.08 stars
+* **Amazon Rating**: 4.6 stars
+* **Goodreads Rating**: 4.05 stars
 
 
-**Links**: [Amazon](https://a.co/d/gF1w56V) |
+**Links**: [Amazon](https://amzn.to/47ng1YB) |
 [Goodreads](https://www.goodreads.com/book/show/215144443-llms-in-production) |
 [Publisher](https://www.manning.com/books/llms-in-production) |
 [GitHub Project](https://github.com/IMJONEZZ/LLMs-in-Production)

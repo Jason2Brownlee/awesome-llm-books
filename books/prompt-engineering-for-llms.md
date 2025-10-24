@@ -13,11 +13,11 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-1098156152
 * **Pages**: 280
-* **Amazon Rating**: 4.4 stars
-* **Goodreads Rating**: 4.00 stars
+* **Amazon Rating**: 4.1 stars
+* **Goodreads Rating**: 4.29 stars
 
 
-**Links**: [Amazon](https://a.co/d/eyWEQ4A) |
+**Links**: [Amazon](https://amzn.to/4o1PQhb) |
 [Goodreads](https://www.goodreads.com/book/show/213739653-prompt-engineering-for-llms) |
 [Publisher](https://www.oreilly.com/library/view/prompt-engineering-for/9781098156145/)
 

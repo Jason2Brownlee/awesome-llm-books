@@ -13,11 +13,11 @@
 * **Publisher**: Packt
 * **ISBN-13**: 978-1835462317
 * **Pages**: 342
-* **Amazon Rating**: 4.6 stars
-* **Goodreads Rating**: 3.35 stars
+* **Amazon Rating**: 4.2 stars
+* **Goodreads Rating**: 3.54 stars
 
 
-**Links**: [Amazon](https://a.co/d/e6rt1da) |
+**Links**: [Amazon](https://amzn.to/4oz7YyC) |
 [Goodreads](https://www.goodreads.com/book/show/201054993-building-llm-powered-applications) |
 [Publisher](https://www.packtpub.com/en-au/product/building-llm-powered-applications-9781835462317) |
 [GitHub Project](https://github.com/PacktPublishing/Building-LLM-Powered-Applications)

@@ -13,11 +13,11 @@
 * **Publisher**: Manning
 * **ISBN-13**: 978-1633437166
 * **Pages**: 368
-* **Amazon Rating**: 4.7 stars
-* **Goodreads Rating**: 4.64 stars
+* **Amazon Rating**: 4.6 stars
+* **Goodreads Rating**: 4.62 stars
 
 
-**Links**: [Amazon](https://a.co/d/bXGGLyC) |
+**Links**: [Amazon](https://amzn.to/3JviKqV) |
 [Goodreads](https://www.goodreads.com/book/show/219388329-build-a-large-language-model) |
 [Publisher](https://www.manning.com/books/build-a-large-language-model-from-scratch) |
 [GitHub Project](https://github.com/rasbt/LLMs-from-scratch)

@@ -13,11 +13,11 @@
 * **Publisher**: Packt
 * **ISBN-13**: 978-1836200918
 * **Pages**: 334
-* **Amazon Rating**: 4 stars
-* **Goodreads Rating**: 3.90 stars
+* **Amazon Rating**: 4.1 stars
+* **Goodreads Rating**: 3.72 stars
 
 
-**Links**: [Amazon](https://a.co/d/2zjaDK4) |
+**Links**: [Amazon](https://amzn.to/42Zn5Jv) |
 [Goodreads](https://www.goodreads.com/book/show/214330235-rag-driven-generative-ai) |
 [Publisher](https://www.packtpub.com/en-us/product/rag-driven-generative-ai-9781836200918) |
 [GitHub Project](https://github.com/Denis2054/RAG-Driven-Generative-AI)

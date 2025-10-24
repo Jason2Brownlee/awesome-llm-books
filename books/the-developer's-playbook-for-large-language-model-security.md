@@ -13,11 +13,11 @@
 * **Publisher**: O'Reilly
 * **ISBN-13**: 978-1098162207
 * **Pages**: 200
-* **Amazon Rating**: 5 stars
-* **Goodreads Rating**: 3.88 stars
+* **Amazon Rating**: 4.7 stars
+* **Goodreads Rating**: 3.86 stars
 
 
-**Links**: [Amazon](https://a.co/d/d3rJVkn) |
+**Links**: [Amazon](https://amzn.to/47GvtjK) |
 [Goodreads](https://www.goodreads.com/book/show/210408897-the-developer-s-playbook-for-large-language-model-security) |
 [Publisher](https://www.oreilly.com/library/view/the-developers-playbook/9781098162191/)
 
