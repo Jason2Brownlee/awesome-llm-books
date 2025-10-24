@@ -60,5 +60,5 @@ In AI Agents in Action, you’ll learn how to build production-ready assistants,
 9. Mastering agent prompts with prompt flow
 10. Agent reasoning and evaluation
 11. Agent planning and feedback
-A. Accessing OpenAI large language models
-B. Python development environment
+12. Accessing OpenAI large language models
+13. Python development environment
